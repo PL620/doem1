@@ -1,0 +1,211 @@
+a,
+html a,
+ins {
+	text-decoration: none
+}
+
+article,
+aside,
+blockquote,
+body,
+button,
+code,
+dd,
+details,
+div,
+dl,
+dt,
+fieldset,
+figcaption,
+figure,
+footer,
+form,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+header,
+hgroup,
+hr,
+input,
+legend,
+li,
+menu,
+nav,
+ol,
+p,
+pre,
+section,
+td,
+textarea,
+th,
+ul {
+	margin: 0;
+	padding: 0
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-size: 100%;
+	font-weight: 500;
+	color: #333
+}
+
+address,
+caption,
+cite,
+code,
+dfn,
+em,
+th,
+var {
+	font-style: normal;
+	font-weight: normal;
+}
+
+ol,
+ul {
+	list-style: none
+}
+
+img {
+	border: 0;
+	height: 100%;
+	width: 100%;
+}
+
+html {
+	color: #000
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+iframe,
+menu,
+nav,
+section {
+	display: block
+}
+
+audio,
+canvas,
+video {
+	display: inline-block;
+	*display: inline;
+	*zoom: 1;
+}
+
+body,
+button,
+input,
+select,
+textarea {
+	font: 12px/1.5 tahoma, "microsoft yahei", "\5FAE\8F6F\96C5\9ED1";
+	color: #777666
+}
+
+button,
+input,
+select,
+textarea {
+	font-size: 100%;
+}
+
+button,
+input[type=button],
+input[type=reset],
+input[type=submit] {
+	cursor: pointer;
+	-webkit-appearance: button
+}
+
+del {
+	text-decoration: line-through;
+}
+
+mark {
+	background: #ff0;
+}
+
+
+
+sub,
+sup {
+	font-size: 75%;
+	line-height: 0;
+	position: relative;
+	vertical-align: baseline;
+}
+
+sup {
+	top: -.5em;
+}
+
+sub {
+	bottom: -.25em;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+th {
+	text-align: inherit;
+}
+
+body,
+html body {
+	background: #fafafa;
+}
+
+
+body,
+html body {
+	color: #777;
+	font-family: tahoma, arial, '\5fae\8f6f\96c5\9ed1', 'Hiragino Sans GB', sans-serif !important;
+	-webkit-backface-visibility: visible !important;
+}
+
+a,
+html a {
+	color: #777;
+}
+
+a:hover {
+	color: #ff5a00;
+	text-decoration: none !important;
+}
+
+li,
+ol,
+ul {
+	list-style: none;
+}
+
+input,
+textarea,
+button {
+	border: none;
+	outline: none;
+}
+
+
+
+
+
+
+
+
